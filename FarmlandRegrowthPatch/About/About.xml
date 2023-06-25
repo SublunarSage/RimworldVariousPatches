@@ -10,9 +10,9 @@
 Just a small patch to make the farmlands from [LYN] Farmland's compatible with Regrowth Core's modified soil types.
 
 Changes:
-Tillable (140%) soil: Arid Soil, Tundra Soil, Boreal Soil, Temperate Soil
-Fertile tillable (180%) soil: Tropical Soil
-Dry tillable (100%) soil: Vulcanic Rock
+Tillable (140%) soil: Arid Soil, Tundra Soil, Boreal Soil, Temperate Soil, Aspen Soil, Boiling Soil, Anima Soil,
+Fertile tillable (180%) soil: Tropical Soil, Enchanted Soil,
+Dry tillable (100%) soil: Vulcanic Rock, Hotspring Sand, Depleted (mossy) Soil, Depleted Gravel, Cracked Anima Soil, Anima Spring Sand,
     </description>
     <loadafter>
         <li>ReGrowth.BOTR.Core</li>
