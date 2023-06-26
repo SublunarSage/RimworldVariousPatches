@@ -1,0 +1,3 @@
+[submodule "FarmlandRegrowthPatch"]
+	path = FarmlandRegrowthPatch
+	url = https://github.com/SublunarSage/FarmlandRegrowthPatch.git
